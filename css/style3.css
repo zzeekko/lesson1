@@ -104,6 +104,12 @@ body {
     /* border: 1px solid green; */
 }
 
+#myName {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60;
+    color: violet;
+}
+
 #row1 {
     flex-direction: row-reverse;
 }
